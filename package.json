@@ -1,0 +1,26 @@
+{
+  "name": "jsbuild2",
+  "version": "1.0.0",
+  "description": "Library System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaHood/JSBuild2.git"
+  },
+  "author": "aditya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdityaHood/JSBuild2/issues"
+  },
+  "homepage": "https://github.com/AdityaHood/JSBuild2#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
